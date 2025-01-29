@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Teléfono Móvil",
+      "price": 800,
+      "category": "Electrónica",
+      "description": "Teléfono inteligente con cámara de 108MP y batería de larga duración."
+    },
+    {
+      "id": "3",
+      "name": "Auriculares Bluetooth",
+      "price": 150,
+      "category": "Accesorios",
+      "description": "Auriculares inalámbricos con cancelación de ruido."
+    },
+    {
+      "id": "4",
+      "name": "Reloj Inteligente",
+      "price": 250,
+      "category": "Accesorios",
+      "description": "Reloj inteligente con monitoreo de salud y notificaciones."
+    },
+    {
+      "id": "5",
+      "name": "Teclado Mecánico",
+      "price": 100,
+      "category": "Periféricos",
+      "description": "Teclado mecánico RGB para gamers."
+    },
+    {
+      "id": "6",
+      "name": "TV",
+      "price": 2000,
+      "category": "Electrónica",
+      "description": "tV 45 Pulgada HD XXX"
+    },
+    {
+      "id": "53c7881a-b337-4c2e-81bf-db1226b86b28",
+      "name": "Prueba producto 1",
+      "price": 50,
+      "category": "Categoria",
+      "description": "prueba"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<button (click)="goCreateProduct()" class="mb-2 btn btn-primary">Crear Producto</button>
+
+<app-table
+  [data]="products||[]"
+  [columns]="['name', 'price', 'category', 'description']"
+  (deleteRow)="handleDelete($event)"
+  (updateRow)="handleUpdate($event)">
+>
+</app-table>
