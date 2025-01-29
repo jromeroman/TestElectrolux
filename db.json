@@ -29,18 +29,18 @@
       "description": "Teclado mecánico RGB para gamers."
     },
     {
-      "id": "6",
-      "name": "TV",
-      "price": 2000,
-      "category": "Electrónica",
-      "description": "tV 45 Pulgada HD XXX"
-    },
-    {
       "id": "53c7881a-b337-4c2e-81bf-db1226b86b28",
       "name": "Prueba producto 1",
       "price": 50,
       "category": "Categoria",
       "description": "prueba"
+    },
+    {
+      "id": "6f3b5a3d-96b3-402f-88c1-d42286f1c65a",
+      "name": "TV 55",
+      "price": 1000,
+      "category": "televisores",
+      "description": "televisores de alta gama UHD"
     }
   ]
 }
